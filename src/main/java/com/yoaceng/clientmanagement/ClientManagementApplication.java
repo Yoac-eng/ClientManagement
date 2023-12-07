@@ -1,4 +1,4 @@
-package com.client.clientManagement;
+package com.yoaceng.clientmanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
